@@ -3,7 +3,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Higher Technician in Web Applications Development. Back-front end.
-- 🌱 &nbsp; Learning more about Mobile development, Front-End development and Artificial Intelligence.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
