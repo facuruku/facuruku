@@ -44,7 +44,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ivanmw97/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ivanmw97-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/ivan_mw/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Ivanmw97-blue?style=flat-square&logo=instagram"></a>
-<a><img alt="Email" src="https://img.shields.io/badge/Email-ivanmw.dev@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/facuruku/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-facuruku-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/facuruku_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-facuruku_-blue?style=flat-square&logo=instagram"></a>
+<a><img alt="Email" src="https://img.shields.io/badge/Email-facummt@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
