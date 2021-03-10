@@ -22,6 +22,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Photoshop](https://img.shields.io/badge/-XD-333333?style=flat&logo=adobe-xd)
@@ -37,6 +38,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/facumeza/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-facuruku-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/facuruku_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-facuruku_-blue?style=flat-square&logo=instagram"></a>
-<a><img alt="Email" src="https://img.shields.io/badge/Email-facummt@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:facummt@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-facummt@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
