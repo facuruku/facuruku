@@ -16,7 +16,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![ASP.NET](https://img.shields.io/badge/-ASP.NET-333333?style=flat&logo=asp.net)
-  ![Maven](https://img.shields.io/badge/-Java Maven-333333?style=flat&logo=maven)
+  ![Maven](https://img.shields.io/badge/-Java-Maven-333333?style=flat&logo=maven)
   
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
