@@ -17,7 +17,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=DD0031)
   ![ASP.NET](https://img.shields.io/badge/-ASP.NET-333333?style=flat&logo=asp.net)
-  ![Maven](https://img.shields.io/badge/-JavaMaven-333333?style=flat)
+  ![Maven](https://img.shields.io/badge/-apache-maven-333333?style=flat)
   
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -25,6 +25,8 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
+  
 - 🔧 &nbsp;
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-333333?style=flat&logo=visual-studio&logoColor=662d91)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
