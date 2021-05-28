@@ -31,6 +31,7 @@
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-333333?style=flat&logo=visual-studio&logoColor=662d91)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Netbeans](https://img.shields.io/badge/-Netbeans-333333?style=flat&logo=apache-netbeans-IDE)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse)
   
   
 - 🖥 &nbsp;
