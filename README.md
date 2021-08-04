@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm facu</h1>
 <h3 align="center">🎓 &nbsp; Higher Technician in Web Applications Development. Back-front end.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=facuruku&label=Profile%20views&color=0e75b6&style=flat" alt="facuruku" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=facuruku" alt="facuruku" /></a> </p>
-
-- 👨‍💻 (soon) All of my projects are available at [facumeza.es](facumeza.es)
+- 👨‍💻 (soon) All of my projects will be available at [facumeza.es](facumeza.es)
 - 📫 How to reach me **facummt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
