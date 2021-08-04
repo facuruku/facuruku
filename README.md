@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm facu</h1>
 <h3 align="center">🎓 &nbsp; Higher Technician in Web Applications Development. Back-front end.</h3>
 
-- 📫 How to reach me **fa**
+- 📫 How to reach me **facummt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
